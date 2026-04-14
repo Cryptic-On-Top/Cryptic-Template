@@ -1,2 +1,2 @@
 # Eternal-Template
-Remake of ii stupid template basically. Just re-continuing the ii template so its up to date + more :3
+Eternal Template is a re-continuation of the <a target="_blank" href="https://github.com/iidk-the-actual/iis.stupid.template">ii's stupid template</a>
