@@ -1,0 +1,454 @@
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Cryptic-Paid.deps.json
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Cryptic-Paid.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Cryptic-Paid.pdb
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\andywiecko.BurstTriangulator.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Autodesk.Fbx.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\geometry3Sharp.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\KID.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MeshBakerCore.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.XR.BuildingBlocks.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Modio.Unity.Examples.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Modio.Unity.UI.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\NavMeshComponents.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Interaction.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.Samples.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonVoice.Fusion.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\TechniePhysicsCreator.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Formats.Fbx.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.Csg.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.Stl.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ScriptableBuildPipeline.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\VoiceSDK.Dictation.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\VYaml.Core.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\XNode.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UniTask.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.LCKCore.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\K4os.Compression.LZ4.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Interaction.Samples.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.IdentifiersModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityConsentModule.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.Wit.Dictation.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.LCKCore.ThirdParty.MessagePack.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.IgnoresAccessChecksTo.cs
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.AssemblyInfo.cs
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-.B530F564.Up2Date
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.dll
+C:\Users\lucas\Downloads\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.pdb
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Cryptic-Paid.deps.json
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Cryptic-Paid.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Cryptic-Paid.pdb
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\ALINE.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\andywiecko.BurstTriangulator.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Autodesk.Fbx.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\geometry3Sharp.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\KID.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MeshBakerCore.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.XR.BuildingBlocks.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Modio.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Modio.Unity.Examples.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Modio.Unity.UI.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\NavMeshComponents.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Interaction.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.Samples.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonVoice.Fusion.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\TechniePhysicsCreator.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Formats.Fbx.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.Csg.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ProBuilder.Stl.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.ScriptableBuildPipeline.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.OpenVR.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\VoiceSDK.Dictation.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\VYaml.Core.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\ZString.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\XNode.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UniTask.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.LCKCore.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\K4os.Compression.LZ4.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Oculus.Interaction.Samples.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.IdentifiersModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\UnityEngine.UnityConsentModule.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\Meta.Wit.Dictation.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\LIV.LCKCore.ThirdParty.MessagePack.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.IgnoresAccessChecksTo.cs
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.AssemblyInfo.cs
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-.B530F564.Up2Date
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.dll
+C:\Visual Studio Projects\Cryptic-Paid\Cryptic-Paid\obj\Debug\netstandard2.1\Cryptic-Paid.pdb
